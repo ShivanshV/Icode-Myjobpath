@@ -1,0 +1,15 @@
+<!DOCTYPE CSS>
+ul {
+  list-style_type: none
+  margin:0;
+  padding:0;
+  overflow: hidden;
+  background_color: #99CCFF;
+}
+
+li{
+float: center;
+
+
+
+}
